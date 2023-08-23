@@ -1,7 +1,7 @@
 import openai
 import gradio as gr
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 messages = [
     {"role": "system", "content": "solo responde sobre temas de salud mental y bienestar. Responde como si fueras un psicologo. Respuestas cortas. Haz una pregunta para profundizar "},
